@@ -2,14 +2,14 @@
 ### This repository introduces NODE.js and Express.JS essentials in order to get familiar with the back-end development.
 <hr>
 <h3>Preview:</h3>
-1. Homepage. Links are also provided to help better understand terminologies like CRUD and what APIs are.
+The Homepage. Links are also provided to help better understand terminologies like CRUD and what APIs are.
 
 ![Index](https://github.com/Yugenzariah/Node_and_Express.js_Fundamentals/assets/100184384/4a6277e2-07bf-432e-a942-65706a6c0d2a)
 
-2. A simple form page.
+A simple form page.
 ![Forms](https://github.com/Yugenzariah/Node_and_Express.js_Fundamentals/assets/100184384/61e7b152-ef67-4530-9795-10b11ef95b99)
 
-3. CRUD testing.
+<strong>CRUD testing.</strong>
 <p>Plain text format:</p>
 
 ![Post Plain Text](https://github.com/Yugenzariah/Node_and_Express.js_Fundamentals/assets/100184384/362db18a-e783-4ad9-9a52-6df573600551)
