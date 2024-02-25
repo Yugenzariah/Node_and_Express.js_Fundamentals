@@ -1,5 +1,5 @@
 # Building a REST API with JavaScript.
-### This repository introduces NODE.js and Express.JS essentials in order to get familiar with the back-end development.
+### This repository introduces NODE.JS and Express.JS essentials in order to get familiar with the back-end development.
 <hr>
 <h3>Preview:</h3>
 The Homepage. Links are also provided to help better understand terminologies like CRUD and what APIs are.
